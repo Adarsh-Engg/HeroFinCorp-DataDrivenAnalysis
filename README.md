@@ -82,7 +82,7 @@ HeroFinCorp-Loan-Analysis/
 │   └── HeroFinCorp_EDA.ipynb
 ├── visuals/
 │   ├── default_rate_by_region.png
-│   ├── emi_vs_default_boxplot.png
+│   ├── Profitability per branch
 │   └── ...
 ├── HeroFinCorp_Key_Insights_Report.pdf
 ├── recommendations_summary.pdf
