@@ -13,42 +13,23 @@ To provide Hero FinCorp with actionable insights to:
 💸 Enhance profitability through strategic customer segmentation and interest income analysis.
 
 📂 Dataset Overview
-
-Total Tables Used: 6
-
-customers.csv
-
-loans.csv
-
-defaults.csv
-
-transactions.csv
-
-applications.csv
-
-branches.csv
+ Total Tables Used: 6
+ 1. customers.csv
+ 2. loans.csv
+ 3. defaults.csv
+ 4. transactions.csv
+ 5. applications.csv
+ 6. branches.csv
 
 📊 Key Analysis Performed
 
 1. Default Risk Analysis
 
-High default rates identified in low-income, low-credit score segments.
-
-Defaults peak 60–90 days post-disbursal, especially during Oct–Dec.
-
 2. Branch Performance
 
-Fastest branches: Mumbai Central, Bangalore North.
-
-Most rejections: East Delhi branch.
-
-Legal actions improve recovery rate by ~12%.
 
 3. Profitability Drivers
 
-Most profitable: Business & Vehicle loans.
-
-High EMI (> ₹20,000) increases default risk by 35%.
 
 4. Customer Segmentation
 
@@ -60,13 +41,10 @@ Identified "High Risk" vs. "High Value" segments.
 
 Loan disbursals show steady growth over 5 years.
 
-Seasonal dips in April–May and spikes around festive periods.
 
 6. Recovery Effectiveness
 
 Overall recovery rate: ~24%.
-
-Legal action improves outcomes but is underutilized.
 
 📝 Strategic Recommendations
 
